@@ -1,0 +1,4 @@
+One major advantage of using an object instead of multiple variables is that it helps with obtaining data.
+The role of the parameters of a function is to tell how objects should be drawn. 
+It is how functions are executed with the variables.
+To "return" means to evaluate to a number from function that were typed up.
